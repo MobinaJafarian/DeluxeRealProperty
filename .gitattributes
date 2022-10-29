@@ -1,1 +1,1 @@
-*.blade linguist-detectable=false
+*.blade linguist-detectable=true
