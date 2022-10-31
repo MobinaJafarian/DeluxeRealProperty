@@ -1,4 +1,3 @@
 *.blade linguist-detectable=false
 *.php linguist-detectable=true
 *.css linguist-detectable=false
-*.html linguist-detectable=false
