@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Oct 23, 2022 at 09:03 PM
+-- Generation Time: Oct 31, 2022 at 07:31 PM
 -- Server version: 10.4.25-MariaDB
 -- PHP Version: 8.1.10
 
@@ -59,7 +59,7 @@ CREATE TABLE `ads` (
 --
 
 INSERT INTO `ads` (`id`, `title`, `description`, `address`, `amount`, `image`, `floor`, `year`, `storeroom`, `balcony`, `area`, `room`, `toilet`, `parking`, `tag`, `user_id`, `cat_id`, `status`, `sell_status`, `type`, `view`, `created_at`, `updated_at`, `deleted_at`) VALUES
-(1, 'Perfectly Located On The Most Beautiful Street In Etobicoke', '&lt;p&gt;Perfectly Located On The Most Beautiful Street In Etobicoke. Newly Constructed This Pristine Modern Home has Radiant Heated Floors Throughout, Control 4 Automation System, Natural Stones &amp;amp; Woods Used Throughout. The Pantry has Additional Fridge/Freezer, 2 Dishwashers, Elevator, Walk-Out Basement, Home Theatre, Spectacular Great Room, Master Retreat With Terrace, Wine Room, Pool Table and Serene Ravine.&lt;/p&gt;\r\n', 'Etobicoke', '$8,798,000', '/images/ads/2022/Oct/22/2022_10_22_23_52_15_51.jpg', 'wood', 2021, 1, 1, 2100, 4, '8', 1, 'Modern ', 29, 13, 0, 1, 1, 0, '0000-00-00 00:00:00', '2022-10-22 17:14:15', NULL),
+(1, 'Perfectly Located On The Most Beautiful Street In Etobicoke', '&lt;p&gt;Perfectly Located On The Most Beautiful Street In Etobicoke. Newly Constructed This Pristine Modern Home has Radiant Heated Floors Throughout, Control 4 Automation System, Natural Stones &amp;amp; Woods Used Throughout. The Pantry has Additional Fridge/Freezer, 2 Dishwashers, Elevator, Walk-Out Basement, Home Theatre, Spectacular Great Room, Master Retreat With Terrace, Wine Room, Pool Table and Serene Ravine.&lt;/p&gt;\r\n', 'Etobicoke', '$8,798,000', '/images/ads/2022/Oct/31/2022_10_31_15_56_20_13.jpg', 'wood', 2021, 1, 1, 2100, 4, '8', 1, 'Modern ', 31, 13, 0, 0, 1, 0, '0000-00-00 00:00:00', '2022-10-31 08:56:21', NULL),
 (2, 'Make Your Way Into This Breathtaking Custom Built Home In Sought After Bronte West! ⠀', '&lt;p&gt;This Home Boasts Approximately 3100 Sqft Of Above Grade Living Space + 1500 Sqft In The Basement , 10 Ft Ceilings On Main, Pot Lights + Speakers Thru-Out, Dining Room Incl. Servery With Wine Fridge, Gorgeous Kitchen W/ 4&amp;#39;X8&amp;#39; Centre Island, Pantry, &amp;amp; Quartz Counters, Beautiful Glass/Metal Staircase Leading To 2nd Level with 4 Beautiful, Good-Sized Bedrooms And 3 Bathrooms with Heated Flooring. Extras: Stunning Primary Bedroom W/ 4 Pc Ensuite &amp;amp; W/In Closet. Garage Offers 2 Car Parking Spots With An Electric Car Charger. Close To All Major Amenities- Parks, Schools, Shops Etc.&lt;/p&gt;\r\n', 'Bronte West', '$3,295,000 ', '/images/ads/2022/Oct/23/2022_10_23_04_50_50_39.jpg', 'wood', 2020, 1, 0, 4600, 4, '4', 1, 'Breathtaking ', 29, 14, 0, 0, 1, 0, '0000-00-00 00:00:00', '2022-10-22 21:50:50', NULL),
 (3, 'Gorgeous Modern Design With A Unique Motorized Wood Facade That Opens &amp; Closes!', '&lt;p&gt;A Triple Sided Gas Fireplace Welcomes You From The Foyer To The Living Room Featuring Floor-To-Ceiling Windows &amp;amp; Gorgeous Engineered Hardwood! An Entertainer&amp;#39;s Dream Kitchen With Quartz Counters &amp;amp; Backsplash, Custom Centre Island With Built-In Family Table With Seating For 6, Built-In Panelled Fridge &amp;amp; Dishwasher, S/S Wall Oven &amp;amp; Microwave, Gas Cooktop With Pot Filler! Grand Family Room With Floor-To-Ceiling Windows, Custom Feature Wall With Built-In Cabinetry &amp;amp; Walk-Out To Deck &amp;amp; Privacy Fenced Back Yard! The Stairway Is Another Feat Of Architectural Genius With A 27Ft Digitally Designed Custom 3D Wall Accompanied With 3 Inch Floating Stairs &amp;amp; A Massive Skylight! Breathtaking Primary Bedroom With Floor-To-Ceiling Windows, Wood Feature Wall &amp;amp; Built-In Closets! Gorgeous En-suite With A Floating Double Vanity, Curbless Glass Shower &amp;amp; Freestanding Tub!&lt;/p&gt;\r\n', 'canda', '$2,595,000', '/images/ads/2022/Oct/23/2022_10_23_00_10_58_19.jpg', 'wood', 2022, 1, 1, 1125, 5, '4', 1, 'Unique ', 29, 13, 0, 0, 0, 0, '2020-07-12 13:09:12', '2022-10-22 17:21:55', NULL),
 (4, ' Transitional Build In The Heart Of #LawrencePark', '&lt;p&gt;Spanning Approx. 5,300 Square Feet Of Luxurious Living Space + 2,300 Lower Level * Grand Marble Foyer With Discretely Located Office * Exquisite Finishes * Crisstar Kitchen, Servery &amp;amp; Walk-In Pantry * Beautifully Appointed Outdoor Areas Include Pool, Hot Tub, Kitchen, &amp;amp; Deck * Extensive Built-Ins * Fabulous Mud Room W/ Dog Shower ⠀ ⠀&lt;br /&gt;\r\nLower Level: Rec Room, Bar, #WineCellar Area, Gym, Nanny Suite, 2nd Laundry ⠀ ⠀&lt;br /&gt;\r\nEXTRAS: Subzero Fridge, Freezer &amp;amp; Wine Fridge. Miele Coffee Centre, Miele D/W, Wolf Wall Oven, Wolf Cooktop With Bbq &amp;amp; Griddle, 2nd Wolf Cooktop, Wolf Wall Oven, Wolf Micro, Heated Drive, Generator, Smart Home Automation.&lt;/p&gt;\r\n', 'LawrencePark', '$7,150,000', '/images/ads/2022/Oct/23/2022_10_23_00_19_40_64.jpg', 'wood', 2021, 1, 1, 7600, 6, '8', 1, 'LawrencePark', 29, 13, 0, 0, 1, 0, '2020-07-17 13:48:18', '2022-10-22 17:19:41', NULL),
@@ -268,10 +268,10 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `email`, `first_name`, `last_name`, `avatar`, `password`, `status`, `is_active`, `verify_token`, `user_type`, `remember_token`, `remember_token_expire`, `created_at`, `updated_at`, `deleted_at`) VALUES
-(27, 'admin@yahoo.com', 'Deluxe', 'Real Property', '/images/avatar/2022/Oct/23/2022_10_23_07_41_17_47.png', '$2y$10$uE1SeF1yji36.tvG8Wb/Y.BgpyQTWT5mj.t12ypvmvc/Z8yG5MICi', 0, 1, 'f001ecbe630b3dd15bc4a39d1e78646458bd936055577e904ae879a915eddd7f', 'admin', 'b607a503c1e932e49fb7bb69541b80bcf136d546da4828e5f8cb0470f81d3627', '2021-03-26 17:33:48', '2021-03-09 17:26:37', '2022-10-23 01:00:47', NULL),
-(28, 'nj@gmail.com', 'm', 'nj', '/images/avatar/2022/Oct/22/2022_10_22_03_09_10_76.jpeg', 'e10adc3949ba59abbe56e057f20f883e', 0, 0, '73faca9813d6d3fc51f3279231993a2e61b6f8ad5702b97a804096f3e772f97b', 'user', NULL, NULL, '2022-10-21 20:09:11', NULL, NULL),
-(29, 'admin@ad.com', 'Mobina', 'Nj', '/images/avatar/2022/Oct/23/2022_10_23_07_40_12_76.jpg', '$2y$10$m4DgrJbrcI.mFe2NTd4F6uaPLvS1ETKJxyMM7/4GqM6qMDGQXLbdG', 1, 1, 'ea338fbc894132201f6bc1d71de516d7a6d61474174b2869ede0aee1e042528c', 'admin', NULL, NULL, '2022-10-22 11:11:46', '2022-10-23 00:40:13', NULL),
-(30, 'sammiller@gmail.com', 'sam', 'miller', '/images/avatar/2022/Oct/23/2022_10_23_16_47_52_30.jpg', '$2y$10$MvKQT/2nlGqfHxP0Irwwou0INqm1uTedjSrmoqQXlLQ34Xi5zVvp.', 0, 1, 'ae971f6adc66c0156d55f8281215b090ae6757f7a78ea06fb6bafd78957b9be0', 'user', NULL, NULL, '2022-10-23 09:47:53', '2022-10-23 09:50:56', NULL);
+(27, 'agent@yahoo.com', 'agent', 'Real Property', '/images/avatar/2022/Oct/23/2022_10_23_07_41_17_47.png', '$2y$10$uE1SeF1yji36.tvG8Wb/Y.BgpyQTWT5mj.t12ypvmvc/Z8yG5MICi', 0, 1, 'f001ecbe630b3dd15bc4a39d1e78646458bd936055577e904ae879a915eddd7f', 'admin', 'b607a503c1e932e49fb7bb69541b80bcf136d546da4828e5f8cb0470f81d3627', '2021-03-26 17:33:48', '2021-03-09 17:26:37', '2022-10-23 01:00:47', NULL),
+(29, 'nj@ad.com', 'Mobina', 'Nj', '/images/avatar/2022/Oct/23/2022_10_23_07_40_12_76.jpg', '$2y$10$m4DgrJbrcI.mFe2NTd4F6uaPLvS1ETKJxyMM7/4GqM6qMDGQXLbdG', 1, 1, 'ea338fbc894132201f6bc1d71de516d7a6d61474174b2869ede0aee1e042528c', 'user', NULL, NULL, '2022-10-22 11:11:46', '2022-10-31 09:18:28', NULL),
+(30, 'sammiller@gmail.com', 'sam', 'miller', '/images/avatar/2022/Oct/23/2022_10_23_16_47_52_30.jpg', '$2y$10$MvKQT/2nlGqfHxP0Irwwou0INqm1uTedjSrmoqQXlLQ34Xi5zVvp.', 0, 1, 'ae971f6adc66c0156d55f8281215b090ae6757f7a78ea06fb6bafd78957b9be0', 'user', NULL, NULL, '2022-10-23 09:47:53', '2022-10-31 09:19:44', NULL),
+(31, 'admin@gmail.com', 'Deluxe', 'Real Property', '/images/avatar/2022/Oct/31/2022_10_31_15_45_04_28.png', '$2y$10$uxVMfObmofFeDOzxnwomReAmKyrq29fG3ubTOUdoDeW/lHIQp.BIW', 0, 1, '777fd2e11d86917f7a46405378dbcef7b8b2efe797ec324d36cfca4bc620a22c', 'admin', NULL, NULL, '2022-10-31 08:45:04', NULL, NULL);
 
 --
 -- Indexes for dumped tables
@@ -363,7 +363,7 @@ ALTER TABLE `slides`
 -- AUTO_INCREMENT for table `users`
 --
 ALTER TABLE `users`
-  MODIFY `id` bigint(20) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=31;
+  MODIFY `id` bigint(20) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=32;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
