@@ -46,7 +46,7 @@
                                                 <td><?= $user->first_name ?></td>
                                                 <td><?= $user->last_name ?></td>
                                                 <td><img src="<?= asset($user->avatar) ?>" alt=""></td>
-                                                <td><?= $user->is_active == 1 ? '<span class="text-success">فعال</span>' : '<span class="text-danger">غیرفعال</span>' ?></td>
+                                                <td><?= $user->is_active == 1 ? '<span class="text-success">active</span>' : '<span class="text-danger">deactive</span>' ?></td>
                                                 <td style="width: 22rem; text-align: left;">
                                                     <a href="<?= route('admin.user.edit', [$user->id]) ?>" class="btn btn-info">Edit</a>
                                                     <a href="<?= route('admin.user.change.status', [$user->id]) ?>" class="btn btn-warning">Change Status</a>
